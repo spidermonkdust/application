@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Application
+GenericName=Elementary OS Sample Application
+Comment=Elementary OS Sample Application
+Categories=Utility;Education;
+Exec=com.github.spidermonkdust.application
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=application
+Keywords=Application;Example;Template

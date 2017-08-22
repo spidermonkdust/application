@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Dustin Mitchell <spidermonkdust@yahoo.com> -->
+<component type="desktop">
+  <id>com.github.spidermonkdust.application.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Application</name>
+  <summary>Elementary OS Application</summary>
+  <description>
+    <p>This is a template for creating an Elementary OS Application</p>
+  </description>
+</component>
