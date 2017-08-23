@@ -30,4 +30,10 @@ public class MainWindow : Gtk.Window {
             width_request: 700
         );
     }
+    
+    construct {
+        var grid = new Gtk.Grid ();
+        grid.add (new Gtk.Label (_("Hello")));
+        add (grid);
+    }
 }

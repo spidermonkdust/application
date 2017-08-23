@@ -27,8 +27,7 @@ public class Application : Gtk.Application {
     
     protected override void activate () {
         var app_window = new MainWindow (this);
-        
-        app_window.show ();
+        app_window.show_all ();
     }
     
     public static int main (string[] args) {
